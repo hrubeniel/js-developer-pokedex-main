@@ -9,71 +9,70 @@
 }
 
 .grass {
-    background-color: #A8E6CF; /* Pastel verde */
+    background-color: #A8E6CF;
 }
-
 .fire {
-    background-color: #FF8B94; /* Pastel rojo */
+    background-color: #FF8B94; 
 }
 
 .water {
-    background-color: #A7C7E7; /* Pastel azul */
+    background-color: #A7C7E7; 
 }
 
 .bug {
-    background-color: #C5E1A5; /* Pastel verde claro */
+    background-color: #C5E1A5; 
 }
 
 .type.dark {
-    background-color: #B39DDB; /* Pastel morado oscuro */
+    background-color: #B39DDB; 
 }
 
 .type.dragon {
-    background-color: #C5CAE9; /* Pastel azul-morado */
+    background-color: #C5CAE9; 
 }
 
 .type.electric {
-    background-color: #FFF59D; /* Pastel amarillo */
+    background-color: #FFF59D; 
 }
 
 .type.fairy {
-    background-color: #F8BBD0; /* Pastel rosado */
+    background-color: #F8BBD0; 
 }
 
 .type.fighting {
-    background-color: #FFAB91; /* Pastel naranja */
+    background-color: #FFAB91;
 }
 
 .type.flying {
-    background-color: #CFD8DC; /* Pastel gris azulado */
+    background-color: #CFD8DC; 
 }
 
 .type.ghost {
-    background-color: #CE93D8; /* Pastel morado */
+    background-color: #CE93D8; 
 }
 
 .type.ground {
-    background-color: #D7CCC8; /* Pastel marrón claro */
+    background-color: #D7CCC8; 
 }
 
 .type.ice {
-    background-color: #B3E5FC; /* Pastel celeste */
+    background-color: #B3E5FC;
 }
 
 .type.poison {
-    background-color: #D1C4E9; /* Pastel lavanda */
+    background-color: #D1C4E9; 
 }
 
 .type.psychic {
-    background-color: #FFCCBC; /* Pastel durazno */
+    background-color: #FFCCBC;
 }
 
 .type.rock {
-    background-color: #D0D0D0; /* Pastel gris claro */
+    background-color: #D0D0D0; 
 }
 
 .type.steel {
-    background-color: #B0BEC5; /* Pastel gris acero */
+    background-color: #B0BEC5; 
 }
 .pokemon {
    
