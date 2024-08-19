@@ -5,3 +5,7 @@ Detalles de los pokemos agregados
 
 -_-
 
+
+Changelog 19/8/24
+
+- CSS mejorado
