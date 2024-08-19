@@ -3,6 +3,8 @@
 Detalhes dos pokemons
 Detalles de los pokemos agregados
 
+
+
 -_-
 
 
