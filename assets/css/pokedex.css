@@ -7,7 +7,9 @@
     margin: 0;
     justify-content: center;
 }
-
+.normal {
+    background-color: lightgray;
+}
 .grass {
     background-color: #A8E6CF;
 }
@@ -23,55 +25,55 @@
     background-color: #C5E1A5; 
 }
 
-.type.dark {
+.dark {
     background-color: #B39DDB; 
 }
 
-.type.dragon {
+.dragon {
     background-color: #C5CAE9; 
 }
 
-.type.electric {
+.electric {
     background-color: #FFF59D; 
 }
 
-.type.fairy {
+.fairy {
     background-color: #F8BBD0; 
 }
 
-.type.fighting {
+.fighting {
     background-color: #FFAB91;
 }
 
-.type.flying {
+.flying {
     background-color: #CFD8DC; 
 }
 
-.type.ghost {
+.ghost {
     background-color: #CE93D8; 
 }
 
-.type.ground {
+.ground {
     background-color: #D7CCC8; 
 }
 
-.type.ice {
+.ice {
     background-color: #B3E5FC;
 }
 
-.type.poison {
+.poison {
     background-color: #D1C4E9; 
 }
 
-.type.psychic {
+.psychic {
     background-color: #FFCCBC;
 }
 
-.type.rock {
+.rock {
     background-color: #D0D0D0; 
 }
 
-.type.steel {
+.steel {
     background-color: #B0BEC5; 
 }
 .pokemon {
